@@ -7,3 +7,5 @@ Historically, not published anywhere due to people being awkward as usual in the
 You will have to follow the schematic and make yourself a PCB for it in your EDA software of choice.
 
 Enjoy!
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/2e0b928d-ae80-4e8d-95e9-930f290a6476" />
